@@ -1,6 +1,6 @@
 # Top 10% Active Restaurant Review Whales in Florida, US
 
-> Free BeamStation sample export with 200 rows and masked direct-contact fields.
+> Free BeamStation sample export with 51 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `917517` |
 | Location | Florida |
 | Category | Restaurants |
-| Full dataset size | 2,004 records |
-| Free sample size | 200 records (9.98%) |
-| Last export | 2026-04-15T07:50:48.584890+00:00 |
+| Full dataset size | 519 records |
+| Free sample size | 51 records (9.83%) |
+| Last export | 2026-04-22T14:18:22.798310+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-10-active-restaurant-review-whales-in-florida-us-sample-917517/releases/download/sample-latest/beamstation_917517_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
