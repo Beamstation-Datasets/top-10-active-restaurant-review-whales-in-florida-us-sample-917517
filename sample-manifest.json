@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7dbc7d5a-17eb-4567-a3c2-ed8e38d7b65e",
+  "export_job_id": "bfb31bc3-14c9-485f-aa5d-4ccbb131ab25",
   "id_short": 917517,
-  "published_at": "2026-04-23T07:15:35Z",
+  "published_at": "2026-04-29T19:45:15Z",
   "repo_name": "top-10-active-restaurant-review-whales-in-florida-us-sample-917517",
   "sample_asset_name": "beamstation_917517_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/917517/beamstation_917517_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 51,
-  "sample_sha256": "18ab9ea8b0fc761e7b7ac540e843a78f485072eaa5ee4a068636bbf8d06e59d4",
-  "sample_size_bytes": 207211,
-  "total_records": 519
+  "sample_records": 133,
+  "sample_sha256": "2c72db874cde39a399b30f62cc969c917d9edff149a8fdbf50afffa83ef753f5",
+  "sample_size_bytes": 561905,
+  "total_records": 1335
 }
